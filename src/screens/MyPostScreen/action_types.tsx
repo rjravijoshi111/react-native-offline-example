@@ -1,0 +1,6 @@
+export const myPostAction = {
+  MY_POST: 'MY_POST',
+  MY_POST_SUCCESS: 'MY_POST_SUCCESS',
+  MY_POST_ERROR: 'MY_POST_ERROR',
+  IS_LOADING: 'IS_LOADING'
+};

@@ -1,0 +1,7 @@
+export const loginAction = {
+  LOGIN: 'LOGIN',
+  LOGIN_SUCCESS: 'LOGIN_SUCCESS',
+  LOGIN_ERROR: 'LOGIN_ERROR',
+  IS_LOADING: 'IS_LOADING',
+  LOGOUT: 'LOGOUT',
+};
