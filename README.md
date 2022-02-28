@@ -1,4 +1,4 @@
-# believr app
+# React-native-offline example app
 
 ## This project is built with [React Native](https://reactnative.dev/)
 
